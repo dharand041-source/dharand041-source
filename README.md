@@ -9,12 +9,9 @@
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&duration=3500&pause=1000&color=00C853&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+%26+Data+Science+Student;Future+AI+%26+Machine+Learning+Engineer;Passionate+About+Building+AI+Solutions;Always+Learning+%F0%9F%9A%80;Welcome+to+My+GitHub+Profile!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&duration=3500&pause=1000&color=FF0000&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+%26+Data+Science+Student;Future+AI+%26+Machine+Learning+Engineer;Passionate+About+Building+AI+Solutions;Always+Learning+%F0%9F%9A%80;Welcome+to+My+GitHub+Profile!" />
 </p>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=dharand041-source&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-</p>
 
 ---
 
@@ -44,11 +41,11 @@ I enjoy transforming ideas into practical applications, exploring modern AI tech
 
 # 💻 Programming Languages
 
-<p>
+<p align="left">
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 
@@ -58,7 +55,7 @@ I enjoy transforming ideas into practical applications, exploring modern AI tech
 
 </p>
 
----
+<hr>
 
 # 🛠️ Development Tools
 
@@ -100,5 +97,50 @@ I enjoy transforming ideas into practical applications, exploring modern AI tech
 - 👁️ Computer Vision
 - 🐍 Advanced Python
 - 💻 AI Project Development
+
+---
+# 🚀 Featured Projects
+
+---
+
+## 🎓 Learn2Hire AI – AI Career Guidance Platform
+
+An AI-powered web application designed to help students identify skill gaps, improve employability, and prepare for internships and placements through personalized career guidance.
+
+### ✨ Highlights
+- 📄 Resume analysis
+- 🎯 Career guidance
+- 📚 Skill recommendations
+- 💼 Internship preparation
+- 🤖 AI-assisted career planning
+
+### 🛠️ Technologies
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+🔗 **Repository:**  
+https://github.com/dharand041-source/learn2hire-ai
+
+---
+
+## 👀 Exam Malpractice Detection
+
+A computer vision project that helps detect suspicious activities during online examinations using AI-based monitoring techniques.
+
+### ✨ Highlights
+- 🎥 Webcam monitoring
+- 👤 Face detection
+- 👀 Head movement detection
+- ⚠️ Suspicious activity detection
+- 🔒 Fair online examination support
+
+### 🛠️ Technologies
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+
+🔗 **Repository:**  
+https://github.com/dharand041-source/exam_malpractice_detection
 
 ---
