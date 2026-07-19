@@ -24,7 +24,7 @@ I enjoy transforming ideas into practical applications, exploring modern AI tech
 - 🎓 **Education:** B.Tech – Artificial Intelligence & Data Science
 - 📍 **Current Year:** Second Year
 - 🎯 **Career Goal:** AI & Machine Learning Engineer
-- 🌱 **Currently Learning:** Machine Learning, Deep Learning, DSA & Computer Vision
+- 🌱 **Currently Learning:** Machine Learning, Deep Learning, DSA , Blender & Computer Vision
 - 💡 **Interests:** AI, ML, Computer Vision, Intelligent Systems
 - 🤝 **Looking for:** AI/ML Internship Opportunities & Open Source Collaboration
 - ⚡ **Fun Fact:** I believe every project is an opportunity to learn something new.
@@ -57,6 +57,7 @@ I enjoy transforming ideas into practical applications, exploring modern AI tech
 
 <hr>
 
+
 # 🛠️ Development Tools
 
 <p>
@@ -68,6 +69,10 @@ I enjoy transforming ideas into practical applications, exploring modern AI tech
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
 
 </p>
 
@@ -93,10 +98,13 @@ I enjoy transforming ideas into practical applications, exploring modern AI tech
 
 - 🤖 Machine Learning
 - 🧠 Deep Learning
-- 📊 Data Structures & Algorithms
+- 📊 Data Structures & Algorithms (DSA)
 - 👁️ Computer Vision
 - 🐍 Advanced Python
-- 💻 AI Project Development
+- 🎨 Blender 3D Animation
+- ☁️ Vercel & Netlify Deployment
+- 🤖 AI Agents & LLMs
+- 🚀 Real-World AI Project Development
 
 ---
 # 🚀 Featured Projects
